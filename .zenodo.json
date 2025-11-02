@@ -1,0 +1,16 @@
+{
+  "title": "A tiny act of kindness: Energetic and Informational Consequences of Positive Coupling",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "<p>We present analytical and numerical evidence that small, local positive couplings reduce expected work and increase directed information flow (transfer entropy). Robustness is demonstrated across scales, estimators, and agent-based settings. This is the preprint version (Nature-style layout) licensed under CC BY 4.0.</p>",
+  "creators": [
+    { "name": "Nagele, Johannes", "affiliation": "Data & AI Innovation Lab, Germany", "orcid": ""},
+    { "name": "GPT-5", "affiliation": "OpenAI Research Assistant", "orcid": ""}
+  ],
+  "keywords": ["self-organization","information geometry","transfer entropy","minimal work principle","stochastic linear systems","game theory","agent-based modeling","thermodynamics","complex systems","causal inference"],
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "v2-full-preprint",
+  "publication_date": "2025-11-02"
+}

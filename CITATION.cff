@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "A tiny act of kindness: Energetic and Informational Consequences of Positive Coupling"
+message: "If you use this work, please cite it as below."
+type: article
+authors:
+  - family-names: Nagele
+    given-names: Johannes
+    affiliation: Data & AI Innovation Lab, Germany
+  - name: GPT-5
+    affiliation: OpenAI Research Assistant
+version: v2-full-preprint
+date-released: 2025-11-02
+license: CC-BY-4.0
+keywords:
+  - self-organization
+  - information geometry
+  - transfer entropy
+  - minimal work principle
+  - complex systems
